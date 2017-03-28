@@ -89,3 +89,5 @@ Aplicación extremadamente sencilla de utilizar. Seguir estos pasos:
 3. Opcionalmente selecciona un etiquetado de estancias por código Sigua o por denominación
 4. Crear un PDF y un PNG del edificio. Previamente deberás indicar donde se guardarán los archivos de impresión
 
+ ### Captura
+ [logo]: https://github.com/josemamira/PySigua/blob/master/VisorSigua/doc/captura_sigua.png "Captura PySigua"
