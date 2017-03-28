@@ -67,10 +67,8 @@ python main_osx.py
 Testeado en OS X 10.11 El Capitan
 
 ### Conexión de base de datos
-Esta aplicación se conecta a la geodatabase Postgis al que puede accederse utilizando la intrarred (sólo para el laboratorio de Geomática), o Internet, utilizando IP pública.
-Por defecto está preparada para la conexión a Internet. En caso de estar en el laboratorio utilizar la IP interna.
-Si quieres realizar algún cambio tienes que editar los parámetros de conexión del fichero dbsettings.py
-Los parámetros de conexión sólo permiten acceso de lectura a la base de datos.
+PySigua se conecta a la geodatabase PostgreSQL con Postgis de SIGUA. Para que esta aplicación funcione se proporciona un fichero dbsettings.pyc ya compilado. Sin embargo si quieres realizar cambios puedes crear un fichero llamado dbsettings.py, con el contenido proporcionado abajo y realizar los cambios pertinentes.
+Los parámetros de conexión dados sólo permiten acceso de lectura a la base de datos.
 
 Contenido de dbsettings.py
 
