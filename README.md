@@ -19,10 +19,21 @@ Se trata de un proyecto programado en Python que utiliza
 - El interfaz de usuario (UI) ha sido diseñado con QtDesigner
 
 ### Especificaciones
-Se trata de un proyecto programado en Python que utiliza
-- Librería PyQgis
-- Librería PyQt
-- El interfaz de usuario (UI) ha sido diseñado con QtDesigner
+-	Multiplataforma
+-	Permite conectarse a la geodatabase de Sigua
+-	Edición de leyenda automática por actividades utilizando el esquema Sigua
+-	Edición de leyenda automática por organización (departamentos o unidades administrativas)
+-	Optimización de leyenda utilizando gama de colores basados en ColorBrewer
+-	Controles para acercarse, alejarse, desplazarse y zoom a extensión
+-	Visualización de leyenda, con posibilidad de desmarcar visualización de usos o organizaciones
+-	Etiquetado automático de estancias por código
+-	Etiquetado automático de estancias por denominación
+- Impresión con salida en PDF y PNG
+-	Selección automática de la orientación del papel
+-	Impresión con centrado en edificio
+-	Impresión con metadatos
+-	Mapa con título, autor, organismo, logotipo, escala numérica y gráfica
+
 
 ### Requerimientos
 Necesita tener instalado Qgis 2.18 o superior, programa GIS open source. Descargas en http://www.qgis.org/es/site/
