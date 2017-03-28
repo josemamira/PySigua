@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>img/mActionAddLayer.png</file>
+    <file>img/mActionAddLegend.png</file>
+    <file>img/mActionFilePrint.png</file>
+    <file>img/mActionFolder.png</file>
+    <file>img/mActionLabeling.png</file>
+    <file>img/mActionPan.png</file>
+    <file>img/mActionZoomFullExtent.png</file>
+    <file>img/mActionZoomIn.png</file>
+    <file>img/mActionZoomOut.png</file>
+  </qresource>
+</RCC>

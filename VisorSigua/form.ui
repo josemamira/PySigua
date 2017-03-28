@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1060</width>
+    <height>675</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>0</y>
+      <width>746</width>
+      <height>601</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="2" column="3">
+      <widget class="QPushButton" name="pushButtonDptos">
+       <property name="text">
+        <string>Organización</string>
+       </property>
+       <property name="icon">
+        <iconset resource="recursos.qrc">
+         <normaloff>:/newPrefix/mActionAddLegend.png</normaloff>:/newPrefix/mActionAddLegend.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="2" colspan="4">
+      <widget class="QComboBox" name="comboBox"/>
+     </item>
+     <item row="1" column="0" colspan="2">
+      <widget class="QLabel" name="label_3">
+       <property name="font">
+        <font>
+         <weight>75</weight>
+         <bold>true</bold>
+        </font>
+       </property>
+       <property name="text">
+        <string>Listado edificios:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="2">
+      <widget class="QPushButton" name="pushButtonDirectorio">
+       <property name="text">
+        <string>Directorio</string>
+       </property>
+       <property name="icon">
+        <iconset resource="recursos.qrc">
+         <normaloff>:/newPrefix/mActionFolder.png</normaloff>:/newPrefix/mActionFolder.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="3" colspan="3">
+      <widget class="QLineEdit" name="lineEditDirectorio"/>
+     </item>
+     <item row="3" column="0" colspan="2">
+      <widget class="QLabel" name="label_5">
+       <property name="font">
+        <font>
+         <weight>75</weight>
+         <bold>true</bold>
+        </font>
+       </property>
+       <property name="text">
+        <string>Impresión:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QLabel" name="label">
+       <property name="text">
+        <string>Tema: </string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="2">
+      <widget class="QPushButton" name="pushButtonUsos">
+       <property name="text">
+        <string>Usos</string>
+       </property>
+       <property name="icon">
+        <iconset resource="recursos.qrc">
+         <normaloff>:/newPrefix/mActionAddLegend.png</normaloff>:/newPrefix/mActionAddLegend.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QLabel" name="label_4">
+       <property name="font">
+        <font>
+         <weight>75</weight>
+         <bold>true</bold>
+        </font>
+       </property>
+       <property name="text">
+        <string>Símbología:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="6" colspan="2">
+      <widget class="QPushButton" name="pushButtonPrint">
+       <property name="text">
+        <string>Imprimir PDF</string>
+       </property>
+       <property name="icon">
+        <iconset resource="recursos.qrc">
+         <normaloff>:/newPrefix/mActionFilePrint.png</normaloff>:/newPrefix/mActionFilePrint.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="0" colspan="8">
+      <widget class="QFrame" name="frame">
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="6" colspan="2">
+      <widget class="QPushButton" name="pushButtonOpen">
+       <property name="text">
+        <string>Cargar edificio</string>
+       </property>
+       <property name="icon">
+        <iconset resource="recursos.qrc">
+         <normaloff>:/newPrefix/mActionAddLayer.png</normaloff>:/newPrefix/mActionAddLayer.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="7">
+      <widget class="QPushButton" name="pushButtonDeno">
+       <property name="text">
+        <string>Denominación</string>
+       </property>
+       <property name="icon">
+        <iconset resource="recursos.qrc">
+         <normaloff>:/newPrefix/mActionLabeling.png</normaloff>:/newPrefix/mActionLabeling.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="6">
+      <widget class="QPushButton" name="pushButtonCodigo">
+       <property name="text">
+        <string>Código</string>
+       </property>
+       <property name="icon">
+        <iconset resource="recursos.qrc">
+         <normaloff>:/newPrefix/mActionLabeling.png</normaloff>:/newPrefix/mActionLabeling.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="5">
+      <widget class="QLabel" name="label_2">
+       <property name="text">
+        <string>Textos: </string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1060</width>
+     <height>23</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="recursos.qrc"/>
+ </resources>
+ <connections/>
+</ui>
