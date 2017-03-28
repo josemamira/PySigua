@@ -52,8 +52,8 @@ Testeado en Ubuntu (16.04, 14.04), Elementary (Freya, Loki)
 > Windows
 
 Copiar la carpeta "VisorSIGUA" a donde se quiera. Por ejemplo en " Documentos"
-Ejecutar el fichero batch de arranque "run_win.bat" con un doble clic.
-Este fichero llama a las librerías de Python en Qgis. Por defecto está pensaWindowsdo para la versión Qgis 2.18. Se Qgis utiliza otra versión hay que editar la segunda línea, indicando el path a la versión de Qgis
+Ejecutar el fichero batch (.bat) de arranque "run_win.bat" con un doble clic.
+Este fichero llama a las librerías de Python en Qgis. Por defecto está diseñado para la versión Qgis 2.18. Se utilizas otra versión de Qgis tienes que editar la segunda línea del fichero batch, indicando el path a la versión de Qgis que utilizas
 ```sh
 set OSGEO4W_ROOT=C:\Program Files\QGIS 2.18
 ```
