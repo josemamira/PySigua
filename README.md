@@ -70,6 +70,18 @@ Por defecto está preparada para la conexión a Internet. En caso de estar en el
 Si quieres realizar algún cambio tienes que editar los parámetros de conexión del fichero dbsettings.py
 Los parámetros de conexión sólo permiten acceso de lectura a la base de datos.
 
+Contenido de dbsettings.py
+
+```python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+__version__ = '1.0.0'
+VERSION = tuple(map(int, __version__.split('.')))
+params = ['<YOUR IP>', "5432",'<YOUR SIGUA DBNAME>', '<YOUR USER>', '<YOUR PASSWORD>']
+
+```
+Para que la aplicación funcione se proporciona un fichero dbsettings.pyc ya compilado
+
 ### Funcionamiento
 Aplicación extremadamente sencilla de utilizar. Seguir estos pasos:
 1. Seleccionar un edificio del combo desplegable y oprimir el botón "Cargar edificio"
