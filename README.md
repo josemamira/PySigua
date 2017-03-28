@@ -1,6 +1,6 @@
 # PySigua
 Visor de Sigua desarrollado en Python
-
+![alt text](https://github.com/josemamira/PySigua/raw/master/VisorSigua/doc/captura_sigua.png "Captura")
 ### Descripción
 Aplicación standalone para ver e imprimir los edificios y plantas de la Universidad de Alicante  utilizando simbología avanzada. Se trata de una aplicación más de SIGUA [www.sigua.ua.es]
 
