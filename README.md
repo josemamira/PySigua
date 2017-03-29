@@ -58,6 +58,7 @@ Este fichero llama a las librerías de Python en Qgis. Por defecto está diseña
 set OSGEO4W_ROOT=C:\Program Files\QGIS 2.18
 ```
 Rutas por defecto para otras versiones de Qgis
+
 | Qgis version | Arquitectura | Path |
 | ------ | ------ | ------ |
 | 2.18 Las Palmas  | 64 bits | C:\Program Files\QGIS 2.18 |
