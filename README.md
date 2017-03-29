@@ -61,17 +61,18 @@ Rutas por defecto para otras versiones de Qgis
 | Qgis version | Arquitectura | Path |
 | ------ | ------ | ------ |
 | 2.18 Las Palmas  | 64 bits | C:\Program Files\QGIS 2.18 |
-| 2.18 Las Palmas | 32 bits | | C:\Program Files (x86)\QGIS 2.18 |
-| 2.16 Nødebo | 64 bits | C:\Program Files\QGIS 2.18 |
-| 2.16 Nødebo | 32 bits | | C:\Program Files (x86)\QGIS 2.18 |
+| 2.18 Las Palmas  | 64 bits | C:\Program Files (x86)\QGIS 2.18 |
+| 2.16 Nødebo | 64 bits | C:\Program Files\QGIS 2.16 |
+| 2.16 Nødebo | 64 bits | C:\Program Files (x86)\QGIS 2.16 |
+| 2.16 Nødebo | 32 bits | C:\Program Files (x86)\QGIS 2.18 |
 | 2.14 Essen | 64 bits | C:\Program Files\QGIS Essen |
-| 2.14 Essen | 32 bits | | C:\Program Files (x86)\QGIS Essen |
+| 2.14 Essen | 32 bits | C:\Program Files (x86)\QGIS Essen |
 | 2.12 Lyon | 64 bits | C:\Program Files\QGIS Lyon |
-| 2.12 Lyon | 32 bits | | C:\Program Files (x86)\QGIS Lyon |
+| 2.12 Lyon | 32 bits | C:\Program Files (x86)\QGIS Lyon |
 | 2.10 Pisa | 64 bits | C:\Program Files\QGIS Pysa |
-| 2.10 Pisa | 32 bits | | C:\Program Files (x86)\QGIS Pisa |
+| 2.10 Pisa | 32 bits | C:\Program Files (x86)\QGIS Pisa |
 | 2.8 Wien | 64 bits | C:\Program Files\QGIS Wien |
-| 2.8 Wien | 32 bits | | C:\Program Files (x86)\QGIS Wien |
+| 2.8 Wien | 32 bits | C:\Program Files (x86)\QGIS Wien |
 
 Recomendamos crear un acceso directo al fichero, que podrás llamar "Visor SIGUA", y ubicarla en el escritorio. Se puede cambiar el icono por el que se proporciona (icono.ico)
 
