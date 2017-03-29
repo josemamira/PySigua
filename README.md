@@ -62,9 +62,8 @@ Rutas por defecto para otras versiones de Qgis
 | Qgis version | Arquitectura | Path |
 | ------ | ------ | ------ |
 | 2.18 Las Palmas  | 64 bits | C:\Program Files\QGIS 2.18 |
-| 2.18 Las Palmas  | 64 bits | C:\Program Files (x86)\QGIS 2.18 |
+| 2.18 Las Palmas  | 32 bits | C:\Program Files (x86)\QGIS 2.18 |
 | 2.16 Nødebo | 64 bits | C:\Program Files\QGIS 2.16 |
-| 2.16 Nødebo | 64 bits | C:\Program Files (x86)\QGIS 2.16 |
 | 2.16 Nødebo | 32 bits | C:\Program Files (x86)\QGIS 2.18 |
 | 2.14 Essen | 64 bits | C:\Program Files\QGIS Essen |
 | 2.14 Essen | 32 bits | C:\Program Files (x86)\QGIS Essen |
