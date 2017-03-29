@@ -53,10 +53,26 @@ Testeado en Ubuntu (16.04, 14.04), Elementary (Freya, Loki)
 
 Copiar la carpeta "VisorSIGUA" a donde se quiera. Por ejemplo en " Documentos"
 Ejecutar el fichero batch (.bat) de arranque "run_win.bat" con un doble clic.
-Este fichero llama a las librerías de Python en Qgis. Por defecto está diseñado para la versión Qgis 2.18. Se utilizas otra versión de Qgis tienes que editar la segunda línea del fichero batch, indicando el path a la versión de Qgis que utilizas
+Este fichero llama a las librerías de Python en Qgis. Por defecto está diseñado para la versión Qgis 2.18 que se instala cuando seleccionas Qgis standalone installer version 2.18 (64 bits). Se utilizas otra versión de Qgis tienes que editar la segunda línea del fichero batch, indicando el path a la versión de Qgis que utilizas
 ```sh
 set OSGEO4W_ROOT=C:\Program Files\QGIS 2.18
 ```
+Rutas por defecto para otras versiones de Qgis
+| Qgis version | Arquitectura | Path |
+| ------ | ------ | ------ |
+| 2.18 Las Palmas  | 64 bits | C:\Program Files\QGIS 2.18 |
+| 2.18 Las Palmas | 32 bits | | C:\Program Files (x86)\QGIS 2.18 |
+| 2.16 Nødebo | 64 bits | C:\Program Files\QGIS 2.18 |
+| 2.16 Nødebo | 32 bits | | C:\Program Files (x86)\QGIS 2.18 |
+| 2.14 Essen | 64 bits | C:\Program Files\QGIS Essen |
+| 2.14 Essen | 32 bits | | C:\Program Files (x86)\QGIS Essen |
+| 2.12 Lyon | 64 bits | C:\Program Files\QGIS Lyon |
+| 2.12 Lyon | 32 bits | | C:\Program Files (x86)\QGIS Lyon |
+| 2.10 Pisa | 64 bits | C:\Program Files\QGIS Pysa |
+| 2.10 Pisa | 32 bits | | C:\Program Files (x86)\QGIS Pisa |
+| 2.8 Wien | 64 bits | C:\Program Files\QGIS Wien |
+| 2.8 Wien | 32 bits | | C:\Program Files (x86)\QGIS Wien |
+
 Recomendamos crear un acceso directo al fichero, que podrás llamar "Visor SIGUA", y ubicarla en el escritorio. Se puede cambiar el icono por el que se proporciona (icono.ico)
 
 Testeado satisfactoriamente en Windows XP, 7, 8 y 10
