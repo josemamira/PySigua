@@ -74,7 +74,7 @@ Rutas por defecto para otras versiones de Qgis
 | 2.8 Wien | 64 bits | C:\Program Files\QGIS Wien |
 | 2.8 Wien | 32 bits | C:\Program Files (x86)\QGIS Wien |
 
-Para otras versiones consultar este enlace: [https://es.wikipedia.org/wiki/QGIS] (https://es.wikipedia.org/wiki/QGIS)
+Para otras versiones consultar este enlace: https://es.wikipedia.org/wiki/QGIS
 
 Recomendamos crear un acceso directo al fichero, que podrás llamar "Visor SIGUA", y ubicarla en el escritorio. Se puede cambiar el icono por el que se proporciona (icono.ico)
 
