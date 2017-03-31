@@ -42,7 +42,7 @@
     <customproperties/>
    </ComposerItem>
   </ComposerLabel>
-  <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="27.7529" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" northMode="0" file="/Users/admin/Documents/VisorSIGUA/img/logo_sigua.svg" northOffset="0" pictureHeight="7.62724" mapId="-1" anchorPoint="0">
+  <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="27.7529" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" northMode="0" file="http://www.sigua.ua.es/img/logo_sigua.svg" northOffset="0" pictureHeight="7.62724" mapId="-1" anchorPoint="0">
    <ComposerItem pagey="286.193" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="4.05936" y="286.193" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="27.7529" outlineWidth="0.3" excludeFromExports="0" uuid="{4ad4c9fa-6476-4d0d-9509-db2f35f68493}" height="7.78118" itemRotation="0" frame="false" pagex="4.05936">
     <FrameColor alpha="255" red="0" blue="0" green="0"/>
     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
@@ -50,7 +50,7 @@
     <customproperties/>
    </ComposerItem>
   </ComposerPicture>
-  <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="5.18836" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" northMode="0" file="/Users/admin/Documents/VisorSIGUA/img/norte.svg" northOffset="0" pictureHeight="11.1838" mapId="-1" anchorPoint="0">
+  <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="5.18836" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" northMode="0" file="http://www.sigua.ua.es/img/norte.svg" northOffset="0" pictureHeight="11.1838" mapId="-1" anchorPoint="0">
    <ComposerItem pagey="39.0773" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="5.37725" y="39.0773" visibility="1" zValue="10" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="8.64575" outlineWidth="0.3" excludeFromExports="0" uuid="{788a34ad-346f-4b33-b51a-2fd550154848}" height="11.1838" itemRotation="0" frame="false" pagex="5.37725">
     <FrameColor alpha="255" red="0" blue="0" green="0"/>
     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
